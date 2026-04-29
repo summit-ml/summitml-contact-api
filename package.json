@@ -3,10 +3,11 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-      "resend": "latest"
+        "@vercel/analytics": "^2.0.1",
+        "resend": "latest"
     },
     "devDependencies": {
-      "@vercel/node": "latest",
-      "typescript": "latest"
+        "@vercel/node": "latest",
+        "typescript": "latest"
     }
-  }
+}
