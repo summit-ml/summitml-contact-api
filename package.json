@@ -1,0 +1,12 @@
+{
+    "name": "summitml-contact-api",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "resend": "latest"
+    },
+    "devDependencies": {
+      "@vercel/node": "latest",
+      "typescript": "latest"
+    }
+  }
